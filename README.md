@@ -5,7 +5,11 @@ The Adopt-Me project makes calls to petfinder.com and uses data passed to genera
 Users can filter the available animals and be directed to the page of an animal they wish to adopt.
 
 TO RUN:
+
 -clone repository
+
 -navigate to repo in terminal
+
 -npm install (install dependecies)
+
 -npm run dev
